@@ -11,7 +11,6 @@ All of the source data is publicly available.
 - **LVC_pdf_scraping.py**: Python script for extracting data from PDF related to Land-Value Capture Instruments (LVC).
 - **MARPOL_Annex6_pdf.py**: Script to exctract country info from MARPOL Annex VI PDF documents.
 - **NAPS_COMM_scraping.R**: R script for scraping data related to National Adaptation Plans (NAPS) and Communications (NACs) submissions.
-- **RTA_cleaning.py**: Script for cleaning and processing data on environmental provisions of Regional Trade Agreements (RTA).
 
 ## Getting Started
 
